@@ -18,7 +18,7 @@ If m2e is not there, just follow the install process here: http://eclipse.org/m2
 
 1) In the command line
 ```
-git clone git@github.com:paulc4/mvc-content-neg-views
+git clone https://github.com/apiltywaree/Apil-Tiwari.git
 ```
 2a) Inside Eclipse/STS
 ```
